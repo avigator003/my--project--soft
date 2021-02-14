@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "197108423444",
+    "project_id": "softsauda-9c596",
+    "storage_bucket": "softsauda-9c596.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197108423444:android:a40a2caee90bea95d58001",
+        "android_client_info": {
+          "package_name": "com.softsauda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "197108423444-akgnu62s208hbsnrt4geo446apu4e85d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEZnrHZFg5OBykfWyGlPnW80cxSKSG8nQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "197108423444-akgnu62s208hbsnrt4geo446apu4e85d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
